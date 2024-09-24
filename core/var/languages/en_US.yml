@@ -71,7 +71,8 @@ plugins.events.change_thread_image.setNewImage: "\nChanging thread image is not 
 plugins.events.change_thread_image.unsupported: "Unsupported image format for thread {threadId}, only URL is accepted."
 
 plugins.events.subscribe.addSelf: "Bot has been added to \"{threadName}\" ({threadId}) by \"{authorName}\" ({authorId})."
-plugins.events.subscribe.connected: "Connected successfully!\nUse {PREFIX}help to see all commands."
+plugins.events.subscribe.connected: "📶 ┃ 𝓑𝓸𝓽 𝓒𝓸𝓷𝓷𝓮𝓬𝓽𝓮𝓭\n━━━━━━━━━━━━━\nAries AI is going to assist you.
+𝖳𝗒𝗉𝖾 -help for the list of commands.\n\n𝗖𝗿𝗲𝗮𝘁𝗼𝗿: Marjhxn"
 plugins.events.subscribe.error.createMonitor: "Couldn't create new monitor for this thread."
 plugins.events.subscribe.createdMonitor: "Thread {threadId} will be monitored here."
 # plugins.events.subscribe.addMembers: "\"{authorName}\" ({authorId}) has added {membersLength} member(s):\n{members}"
